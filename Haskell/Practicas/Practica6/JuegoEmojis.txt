@@ -1,0 +1,13 @@
+Juego Haskell
+
+1 Lista en donde se guardan todas las peliculas con sus emojis.(Las respuestas tambien dentro de la lista?)
+2 Menú
+3 Contador de vidas
+4 Metodo tipo contains como en java para la respuesta ingresada?
+Clases:
+	1 Clase con el main y el menu
+	2 Clase donde guarda todas las peliculas
+	3 Clase para escoger una pelicula aleatorio
+	4 Clase de las respuestas, que no haya restricciones
+	5 Clase para contar vidas
+

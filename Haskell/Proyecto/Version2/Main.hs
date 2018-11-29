@@ -43,10 +43,7 @@ module Main(main) where
     if respuesta == "" then comparaJugar "hola" "javi" keep else comparaJugar (lowerString(cutWhitespace(fst peli))) (lowerString(cutWhitespace respuesta)) keep
 
   cutWhitespace :: String -> String
-  cutWhitespace (x:xs)
-   | x == ' ' = cutWhitespace xs
-   | x == '.' = cutWhitespace xs
-   | otherwise = x:(filter (\y -> (y /=' ' && y /= '.')) xs)
+  cutWhitespace str = filter (\y -> (y /=' ' && y /= '.')) str
 
   imprimir :: String -> IO ()
   imprimir "men" = do

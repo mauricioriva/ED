@@ -35,7 +35,7 @@ module Main(main) where
   jugar :: Int -> IO ()
   jugar m = do
     let peli = lista_de_peliculas!!m
-    putStrLn "\n¿Cuál es el nombre de la película"
+    putStrLn "\n¿Cuál es el nombre de la película?"
     putStrLn ("\n" ++ (snd peli) ++ "\n")
     let keep = (fst peli)
     let lowerString lqsea = [ toLower loweredString | loweredString <- lqsea]
@@ -46,7 +46,7 @@ module Main(main) where
   cutWhitespace (x:xs)
    | x == ' ' = cutWhitespace xs
    | x == '.' = cutWhitespace xs
-   | otherwise = x:(filter (\y -> (y /=' ')) xs)
+   | otherwise = x:(filter (\y -> (y /=' ' && y /= '.')) xs)
 
   imprimir :: String -> IO ()
   imprimir "men" = do

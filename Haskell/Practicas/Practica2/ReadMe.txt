@@ -1,7 +1,5 @@
 
-Mauricio Riva Palacio Orozco 
-
-No. de cuenta 316666343
+Mauricio Riva Palacio Orozco
 
 La Práctica está bastante entretenida, es muy buena para empezar a entender Haskell. Entender que es lo que te pide cada ejercicio y matemáticamente ver como resolver el problema y después pasarlo a código Haskell.
 

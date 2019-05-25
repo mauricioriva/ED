@@ -1,5 +1,5 @@
 
-Mauricio Riva Palacio Orozco 316666343
+Mauricio Riva Palacio Orozco
 
 Las funciones recursivas fueron lo más complicado de entender al igual que resolver los problemas de loki y mono.
 

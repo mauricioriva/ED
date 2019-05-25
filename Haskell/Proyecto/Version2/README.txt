@@ -1,9 +1,9 @@
 
 Practica 6 - Juego de Peliculas con emojis
 
-Mauricio Riva Palacio Orozco 316666343
-Jose Eliseo Ortiz Montaño 316184766
-Derek Almanza Infante 316332022
+Mauricio Riva Palacio Orozco
+Jose Eliseo Ortiz Montaño
+Derek Almanza Infante
 
 Para compilar el programa abrir una terminal y ubicarse dentro de la carpeta 316666343_P06 y ejecutar los comandos siguientes:
 

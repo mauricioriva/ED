@@ -1,6 +1,6 @@
 --ESTRUCTURAS DISCRETAS 2019-1
 --Práctica 1
---Mauricio Riva Palacio Orozco 316666343
+--Mauricio Riva Palacio Orozco
 
 --Ejercicio 1.1:
 areaCirculo :: Float -> Float

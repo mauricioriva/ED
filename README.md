@@ -1,5 +1,3 @@
-# ED
-Curso de Estructuras Discretas
+# Programación Funcional
 
-Este repositorio contiene todo el curso de ED tanto practico como teórico, en la parte práctica se usó el lenguaje de programación haskell.
-En las prácticas viene todo lo relacionado a funciones básicas en haskell e incluye un juego.
+Este repositorio contiene todo lo básico sobre programación funcional, Haskell es un lenguaje puramente funcional
